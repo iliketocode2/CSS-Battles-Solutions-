@@ -1,0 +1,3 @@
+<body><div id=x></div><div id=a></div><div id=b></div><div id=c></div><div id=d></div><div id=e></div></body>
+<style>body{background:#EBF6F0}#x{background:#4E4B44;position:relative;width:110vw;height:100;left:-10;top:224;z-index:1}#a,#b,#c,#d,#e{position:relative;z-index:2;background:#4A9A86;width:80;height:80;border-radius:100%;margin:auto;margin-top:84}#b,#c{width:60;height:60;margin-left:80;margin-top:-70}#c{left:165;top:10}#d,#e{width:40;height:40;margin-left:30;margin-top:-40}#e{margin-left:316;top:0}</style>
+  
