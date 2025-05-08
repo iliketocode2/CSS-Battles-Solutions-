@@ -1,0 +1,55 @@
+<body>
+  <div class="s-logo">
+      <div class="s-shape"></div>
+  </div>
+</body>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #E3DCD1;
+  }
+  
+  .s-logo {
+      position: relative;
+      width: 300px;
+      height: 200px;
+  }
+  
+  .s-shape {
+      z-index: 100;
+      position: absolute;
+      background-color: #D95F5B;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      width: 260px;
+      height: 140px;
+  }
+  
+  .s-shape::before {
+      content: "";
+      position: absolute;
+      background-color: #E3DCD1;
+      width: 180px;
+      height: 40px;
+      top: 20;
+      right: -1;
+      border-radius: 120px 0px 0px 120px;
+  }
+  
+  .s-shape::after {
+      content: "";
+      position: absolute;
+      background-color: E3DCD1;
+      width: 180px;
+      height: 40px;
+      bottom: 20;
+      left: -1;
+      border-radius: 0px 120px 120px 0px;
+  }
+</style>
