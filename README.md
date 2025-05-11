@@ -8,3 +8,5 @@ Solutions to these fun CSS puzzles I enjoy! You can find the daily challenge [he
 
 ### The Result
 - Extremely compact (and nearly unreadable) CSS code!
+
+My Profile: https://cssbattle.dev/player/iliketocode2
