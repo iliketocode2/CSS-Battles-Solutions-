@@ -3,7 +3,7 @@ Solutions to these fun CSS puzzles I enjoy! You can find the daily challenge [he
 
 ### My Strategy
 - Write the CSS in a clear, standard format initially
-- Combine similar <div> elements where possible
+- Combine similar elements where possible
 - Remove all whitespace and any non-essential characters that aren’t required for the code to compile
 
 ### The Result
