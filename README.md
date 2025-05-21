@@ -10,3 +10,9 @@ Solutions to these fun CSS puzzles I enjoy! You can find the daily challenge [he
 - Extremely compact (and nearly unreadable) CSS code!
 
 My Profile: https://cssbattle.dev/player/iliketocode2
+
+
+## My Leaderboard
+1. Day 16 (631.10, 268 characters) - May 21
+2. Day 11 (624.04, 295 characters) - May 15
+3. Day 13 (622.49, 302 characters) - May 17
